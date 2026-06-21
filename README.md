@@ -1,5 +1,5 @@
 # repo01
 repositório de arquivo de programação de softwares.
 Testando github desktop.
-Alterando direto o git.
+Alterando direto no git.
 
