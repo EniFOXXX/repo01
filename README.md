@@ -41,7 +41,7 @@ A frase começa aqui e `Destacar termos no meio do texto` termina aqui.
 
 ```markdown      ```
 
-* [Instagram](https://instagra.com.br)
+* [Instagram](https://instagram.com.br)
 * Imagem:   <img width="500" height="500" alt="1772675781269" src="https://github.com/user-attachments/assets/80492b77-9632-4839-86c2-87dcd7314078"/>
 
 Tabelas
